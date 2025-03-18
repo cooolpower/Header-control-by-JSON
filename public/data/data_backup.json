@@ -1,0 +1,1319 @@
+[
+  {
+    "menuId": "recruit",
+    "menuName": "채용정보",
+    "gridName": "채용 영역",
+    "href": "https://www.jobkorea.co.kr/recruit/joblist?menucode=local&amp;localorder=1",
+    "ga": {
+      "area": "lnb",
+      "label": "공통_PC",
+      "page": "전체서비스_채용정보"
+    },
+    "target": false,
+    "iconName": "",
+    "iconPosition": "",
+    "direction": "",
+    "subMenu": [
+      {
+        "menuId": "recruit_local",
+        "menuName": "지역별",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/recruit/joblist?menucode=local&amp;localorder=1",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "채용정보_지역별"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "recruit_duty",
+        "menuName": "직무별",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/recruit/joblist?menucode=duty",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "채용정보_지역별"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "recruit_cotype1",
+        "menuName": "기업별",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/recruit/joblist?menucode=cotype1&amp;cotype=1,2,3",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "채용정보_기업별"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "recruit_industry",
+        "menuName": "산업별",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/recruit/joblist?menucode=industry",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "채용정보_산업별"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "recruit_top100",
+        "menuName": "TOP100",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/top100",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "채용정보_TOP100"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "recruit_special",
+        "menuName": "전문채용관",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/Theme/Main",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "채용정보_전문채용관"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "recruit_super",
+        "menuName": "슈퍼기업관",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/Super/Main",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "채용정보_슈퍼기업관"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      }
+    ],
+    "grid": {
+      "x": 0,
+      "y": 0,
+      "w": 1,
+      "h": 8,
+      "i": "recruit",
+      "resizeHandles": [
+        "s",
+        "w",
+        "e",
+        "n",
+        "sw",
+        "nw",
+        "se",
+        "ne"
+      ],
+      "cols": 6,
+      "gap": 0,
+      "gridWidth": "",
+      "gridHeight": "",
+      "gridBorderTop": "1px solid #000000",
+      "gridBorderRight": "1px solid #000000",
+      "gridBorderBottom": "1px solid #000000",
+      "gridBorderLeft": "1px solid #000000",
+      "tabOrder": 0
+    },
+    "style": {
+      "width": "",
+      "height": "",
+      "position": "",
+      "left": "",
+      "top": ""
+    }
+  },
+  {
+    "menuId": "customer",
+    "menuName": "고객센터",
+    "gridName": "고객센터 영역",
+    "href": "https://www.jobkorea.co.kr/help/faq/user",
+    "ga": {
+      "area": "lnb",
+      "label": "공통_PC",
+      "page": "고객센터"
+    },
+    "target": false,
+    "iconName": "",
+    "iconPosition": "",
+    "direction": "",
+    "subMenu": [
+      {
+        "menuId": "customer_notice",
+        "menuName": "공지사항",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/help/notice?tab=2",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "고객센터"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "customer_event",
+        "menuName": "이벤트",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/help/event",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "이벤트혜택"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      }
+    ],
+    "grid": {
+      "x": 0,
+      "y": 8,
+      "w": 1,
+      "h": 2,
+      "i": "customer",
+      "resizeHandles": [
+        "s",
+        "w",
+        "e",
+        "n",
+        "sw",
+        "nw",
+        "se",
+        "ne"
+      ],
+      "cols": 6,
+      "gap": 0,
+      "gridWidth": "",
+      "gridHeight": "",
+      "gridBorderTop": "1px solid #000000",
+      "gridBorderRight": "1px solid #000000",
+      "gridBorderBottom": "1px solid #000000",
+      "gridBorderLeft": "1px solid #000000",
+      "tabOrder": 1
+    },
+    "style": {
+      "width": "",
+      "height": "",
+      "position": "",
+      "left": "",
+      "top": ""
+    }
+  },
+  {
+    "menuId": "onepick",
+    "menuName": "이직은 원픽",
+    "gridName": "원픽 영역",
+    "href": "https://www.jobkorea.co.kr/OnePick/JobList?Ord=GcmCodeAmtDesc",
+    "ga": {
+      "area": "lnb",
+      "label": "공통_PC",
+      "page": "전체서비스_이직은원픽"
+    },
+    "target": false,
+    "iconName": "",
+    "iconPosition": "",
+    "direction": "",
+    "subMenu": [
+      {
+        "menuId": "onepick_info",
+        "menuName": "합격축하금 공고",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/OnePick/JobList?Ord=GcmCodeAmtDesc",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "이직은 원픽_합격축하금 공고"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "onepick_service",
+        "menuName": "원픽서비스 안내",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/OnePick/ServiceInfo",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "이직은 원픽_원픽서비스안내"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      }
+    ],
+    "grid": {
+      "x": 1,
+      "y": 0,
+      "w": 1,
+      "h": 2,
+      "i": "onepick",
+      "resizeHandles": [
+        "s",
+        "w",
+        "e",
+        "n",
+        "sw",
+        "nw",
+        "se",
+        "ne"
+      ],
+      "cols": 6,
+      "gap": 0,
+      "gridWidth": "",
+      "gridHeight": "",
+      "gridBorderTop": "1px solid #000000",
+      "gridBorderRight": "1px solid #000000",
+      "gridBorderBottom": "1px solid #000000",
+      "gridBorderLeft": "1px solid #000000",
+      "tabOrder": 1
+    },
+    "style": {
+      "width": "",
+      "height": "",
+      "position": "",
+      "left": "",
+      "top": ""
+    }
+  },
+  {
+    "menuId": "hightech",
+    "menuName": "하이테크",
+    "gridName": "하이테크 영역",
+    "href": "/recruit/high-tech",
+    "ga": {
+      "area": "lnb",
+      "label": "공통_PC",
+      "page": "전체서비스_하이테크"
+    },
+    "target": false,
+    "iconName": "",
+    "iconPosition": "",
+    "direction": "",
+    "subMenu": [],
+    "grid": {
+      "x": 1,
+      "y": 2,
+      "w": 1,
+      "h": 8,
+      "i": "hightech",
+      "resizeHandles": [
+        "s",
+        "w",
+        "e",
+        "n",
+        "sw",
+        "nw",
+        "se",
+        "ne"
+      ],
+      "cols": 6,
+      "gap": 0,
+      "gridWidth": "",
+      "gridHeight": "",
+      "gridBorderTop": "1px solid #000000",
+      "gridBorderRight": "1px solid #000000",
+      "gridBorderBottom": "1px solid #000000",
+      "gridBorderLeft": "1px solid #000000",
+      "tabOrder": 1
+    },
+    "style": {
+      "width": "",
+      "height": "",
+      "position": "",
+      "left": "",
+      "top": ""
+    }
+  },
+  {
+    "menuId": "Qstn",
+    "menuName": "취업톡톡",
+    "gridName": "취업톡톡 영역",
+    "href": "https://www.jobkorea.co.kr/User/Qstn/Index",
+    "ga": {
+      "area": "lnb",
+      "label": "공통_PC",
+      "page": "전체서비스_취업톡톡"
+    },
+    "target": false,
+    "iconName": "",
+    "iconPosition": "",
+    "direction": "",
+    "subMenu": [],
+    "grid": {
+      "x": 4,
+      "y": 8,
+      "w": 1,
+      "h": 2,
+      "i": "Qstn",
+      "resizeHandles": [
+        "s",
+        "w",
+        "e",
+        "n",
+        "sw",
+        "nw",
+        "se",
+        "ne"
+      ],
+      "cols": 6,
+      "gap": 0,
+      "gridWidth": "",
+      "gridHeight": "",
+      "gridBorderTop": "1px solid #000000",
+      "gridBorderRight": "1px solid #000000",
+      "gridBorderBottom": "1px solid #000000",
+      "gridBorderLeft": "1px solid #000000",
+      "tabOrder": 1
+    },
+    "style": {
+      "width": "",
+      "height": "",
+      "position": "",
+      "left": "",
+      "top": ""
+    }
+  },
+  {
+    "menuId": "starter",
+    "menuName": "공채정보",
+    "gridName": "공채 영역",
+    "href": "https://www.jobkorea.co.kr/starter",
+    "ga": {
+      "area": "lnb",
+      "label": "공통_PC",
+      "page": "전체서비스_공채정보"
+    },
+    "target": false,
+    "iconName": "",
+    "iconPosition": "",
+    "direction": "",
+    "subMenu": [
+      {
+        "menuId": "starter_top1000",
+        "menuName": "1000대기업 공채",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/starter",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "헤드헌팅_헤드헌팅 채용공고"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "starter_calendar",
+        "menuName": "공채달력",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/starter/calendar/",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "공채_공채달력"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "starter_schedule",
+        "menuName": "공공기관 채용일정",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/starter/recruitment_schedule/",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "공채정보_공공기관채용일정"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "headhunting_follow",
+        "menuName": "채용 상담",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/User/consulting",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "헤드헌팅_채용상담"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      }
+    ],
+    "grid": {
+      "x": 2,
+      "y": 0,
+      "w": 1,
+      "h": 2,
+      "i": "starter",
+      "resizeHandles": [
+        "s",
+        "w",
+        "e",
+        "n",
+        "sw",
+        "nw",
+        "se",
+        "ne"
+      ],
+      "cols": 6,
+      "gap": 0,
+      "gridWidth": "",
+      "gridHeight": "",
+      "gridBorderTop": "1px solid #000000",
+      "gridBorderRight": "1px solid #000000",
+      "gridBorderBottom": "1px solid #000000",
+      "gridBorderLeft": "1px solid #000000",
+      "tabOrder": 1
+    },
+    "style": {
+      "width": "",
+      "height": "",
+      "position": "",
+      "left": "",
+      "top": ""
+    }
+  },
+  {
+    "menuId": "headhunting",
+    "menuName": "헤드헌팅",
+    "gridName": "헤드헌팅 영역",
+    "href": "https://www.jobkorea.co.kr/headhunting/home",
+    "ga": {
+      "area": "lnb",
+      "label": "공통_PC",
+      "page": "전체서비스_헤드헌팅"
+    },
+    "target": false,
+    "iconName": "",
+    "iconPosition": "",
+    "direction": "",
+    "subMenu": [
+      {
+        "menuId": "headhunting_info",
+        "menuName": "헤드헌팅 채용정보",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/headhunting/home",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "헤드헌팅_헤드헌팅 채용공고"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "headhunting_follow",
+        "menuName": "팔로우 헤드헌터",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/headhunting/headhunter/follow",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "헤드헌팅_팔로우 헤드헌팅"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "headhunting_follow",
+        "menuName": "헤드헌터 찾기",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/headhunting/headhunter",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "헤드헌팅_헤드헌터 찾기"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "headhunting_follow",
+        "menuName": "채용 상담",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/User/consulting",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "헤드헌팅_채용상담"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      }
+    ],
+    "grid": {
+      "x": 2,
+      "y": 2,
+      "w": 1,
+      "h": 8,
+      "i": "headhunting",
+      "resizeHandles": [
+        "s",
+        "w",
+        "e",
+        "n",
+        "sw",
+        "nw",
+        "se",
+        "ne"
+      ],
+      "cols": 6,
+      "gap": 0,
+      "gridWidth": "",
+      "gridHeight": "",
+      "gridBorderTop": "1px solid #000000",
+      "gridBorderRight": "1px solid #000000",
+      "gridBorderBottom": "1px solid #000000",
+      "gridBorderLeft": "1px solid #000000",
+      "tabOrder": 1
+    },
+    "style": {
+      "width": "",
+      "height": "",
+      "position": "",
+      "left": "",
+      "top": ""
+    }
+  },
+  {
+    "menuId": "salary",
+    "menuName": "기업연봉",
+    "gridName": "연봉 영역",
+    "href": "/Review/Home",
+    "ga": {
+      "area": "lnb",
+      "label": "공통_PC",
+      "page": "전체서비스_기업연봉"
+    },
+    "target": false,
+    "iconName": "",
+    "iconPosition": "",
+    "direction": "",
+    "subMenu": [
+      {
+        "menuId": "salary_info",
+        "menuName": "기업리뷰",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/Review/Home",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "기업연봉_기업리뷰"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "salary_salary",
+        "menuName": "연봉",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/Salary/",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "기업연봉_연봉"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "salary_report",
+        "menuName": "기업분석보고서",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/starter/companyreport/",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "기업연봉_기업분석보고서"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      }
+    ],
+    "grid": {
+      "x": 3,
+      "y": 0,
+      "w": 1,
+      "h": 10,
+      "i": "salary",
+      "resizeHandles": [
+        "s",
+        "w",
+        "e",
+        "n",
+        "sw",
+        "nw",
+        "se",
+        "ne"
+      ],
+      "cols": 6,
+      "gap": 0,
+      "gridWidth": "",
+      "gridHeight": "",
+      "gridBorderTop": "1px solid #000000",
+      "gridBorderRight": "1px solid #000000",
+      "gridBorderBottom": "1px solid #000000",
+      "gridBorderLeft": "1px solid #000000",
+      "tabOrder": 1
+    },
+    "style": {
+      "width": "",
+      "height": "",
+      "position": "",
+      "left": "",
+      "top": ""
+    }
+  },
+  {
+    "menuId": "passassay",
+    "menuName": "커리어",
+    "gridName": "커리어 영역",
+    "href": "https://www.jobkorea.co.kr/starter/passassay",
+    "ga": {
+      "area": "lnb",
+      "label": "공통_PC",
+      "page": "전체서비스_커리어"
+    },
+    "target": false,
+    "iconName": "",
+    "iconPosition": "",
+    "direction": "",
+    "subMenu": [
+      {
+        "menuId": "passassay_cv",
+        "menuName": "합격자소서",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/starter/passassay",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "커리어_합격자소서"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "passassay_review",
+        "menuName": "인적성 면접 후기",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/starter/review",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "커리어_인적성면접후기"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "passassay_jatTest",
+        "menuName": "인성역량검사",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/Starter/AptitudeTest/JatTest",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "커리어_인성역량검사"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "passassay_mockTest",
+        "menuName": "공기업 모의고사",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/Starter/AptitudeTest/PubCoMockTest",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "커리어_공기업 모의고사"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "passassay_mockTest",
+        "menuName": "직무인터뷰",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/starter/interview",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "커리어_직무인터뷰"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "passassay_mockTest",
+        "menuName": "역량테스트(MICT)",
+        "gridName": "",
+        "href": "",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "커리어_역량테스트"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "passassay_mockTest",
+        "menuName": "취업TOOL",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/service/user/tool/textcount",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "커리어_취업TOOL"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "passassay_mockTest",
+        "menuName": "문서서식자료",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/GoodJob/Docs/form",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "커리어_문서서식자료"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "passassay_mockTest",
+        "menuName": "KDT 교육관",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/starter/KDT",
+        "ga": {
+          "area": "lnb",
+          "label": "공통_PC",
+          "page": "커리어_KDT교육관"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      }
+    ],
+    "grid": {
+      "x": 4,
+      "y": 0,
+      "w": 1,
+      "h": 8,
+      "i": "passassay",
+      "resizeHandles": [
+        "s",
+        "w",
+        "e",
+        "n",
+        "sw",
+        "nw",
+        "se",
+        "ne"
+      ],
+      "cols": 6,
+      "gap": 0,
+      "gridWidth": "",
+      "gridHeight": "",
+      "gridBorderTop": "1px solid #000000",
+      "gridBorderRight": "1px solid #000000",
+      "gridBorderBottom": "1px solid #000000",
+      "gridBorderLeft": "1px solid #000000",
+      "tabOrder": 1
+    },
+    "style": {
+      "width": "",
+      "height": "",
+      "position": "",
+      "left": "",
+      "top": ""
+    }
+  },
+  {
+    "menuId": "recommand",
+    "menuName": "추천서비스",
+    "gridName": "추천 영역",
+    "href": "",
+    "ga": {
+      "area": "",
+      "label": "",
+      "page": ""
+    },
+    "target": false,
+    "iconName": "",
+    "iconPosition": "",
+    "direction": "horizontal",
+    "subMenu": [
+      {
+        "menuId": "recommand_interview",
+        "menuName": "직무인터뷰",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/starter/interview",
+        "ga": {
+          "area": "추천서비스_비회원개인",
+          "label": "홈_PC",
+          "page": "직무인터뷰"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "recommand_review",
+        "menuName": "인적성면접후기",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/starter/review",
+        "ga": {
+          "area": "추천서비스_비회원개인",
+          "label": "홈_PC",
+          "page": "인적성면접후기"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "recommand_review",
+        "menuName": "일간채용 TOP100",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/top100",
+        "ga": {
+          "area": "추천서비스_비회원개인",
+          "label": "홈_PC",
+          "page": "일간채용 TOP100"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "recommand_review",
+        "menuName": "인적성면접후기",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/starter/review",
+        "ga": {
+          "area": "추천서비스_비회원개인",
+          "label": "홈_PC",
+          "page": "인적성면접후기"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "recommand_textcount",
+        "menuName": "글자수세기",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/service/user/tool/textcount",
+        "ga": {
+          "area": "추천서비스_비회원개인",
+          "label": "홈_PC",
+          "page": "글자수세기"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "recommand_univpoint",
+        "menuName": "학점계산기",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/service/user/tool/univpoint",
+        "ga": {
+          "area": "추천서비스_비회원개인",
+          "label": "홈_PC",
+          "page": "학점계산기"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      }
+    ],
+    "grid": {
+      "x": 0,
+      "y": 10,
+      "w": 5,
+      "h": 2,
+      "i": "recommand",
+      "resizeHandles": [
+        "s",
+        "w",
+        "e",
+        "n",
+        "sw",
+        "nw",
+        "se",
+        "ne"
+      ],
+      "cols": 6,
+      "gap": 0,
+      "gridWidth": "",
+      "gridHeight": "",
+      "gridBorderTop": "1px solid #000000",
+      "gridBorderRight": "1px solid #000000",
+      "gridBorderBottom": "1px solid #000000",
+      "gridBorderLeft": "1px solid #000000",
+      "tabOrder": 1
+    },
+    "style": {
+      "width": "",
+      "height": "",
+      "position": "",
+      "left": "",
+      "top": ""
+    }
+  },
+  {
+    "menuId": "profile",
+    "menuName": "프로필 등록하고 포지션 제안 받으세요",
+    "gridName": "프로필 제안 영역",
+    "href": "https://www.jobkorea.co.kr/User/MyPage",
+    "ga": {
+      "area": "lnb",
+      "label": "공통_PC",
+      "page": "MY_프로필등록"
+    },
+    "target": false,
+    "iconName": "",
+    "iconPosition": "",
+    "direction": "",
+    "subMenu": [],
+    "grid": {
+      "x": 5,
+      "y": 0,
+      "w": 1,
+      "h": 2,
+      "i": "profile",
+      "resizeHandles": [
+        "s",
+        "w",
+        "e",
+        "n",
+        "sw",
+        "nw",
+        "se",
+        "ne"
+      ],
+      "cols": 6,
+      "gap": 0,
+      "gridWidth": "",
+      "gridHeight": "",
+      "gridBorderTop": "1px solid #000000",
+      "gridBorderRight": "1px solid #000000",
+      "gridBorderBottom": "1px solid #000000",
+      "gridBorderLeft": "1px solid #000000",
+      "tabOrder": 1
+    },
+    "style": {
+      "width": "",
+      "height": "",
+      "position": "",
+      "left": "",
+      "top": ""
+    }
+  },
+  {
+    "menuId": "nonUser",
+    "menuName": "",
+    "gridName": "회원 영역",
+    "href": "",
+    "ga": {
+      "area": "",
+      "label": "",
+      "page": ""
+    },
+    "target": false,
+    "iconName": "",
+    "iconPosition": "",
+    "direction": "",
+    "subMenu": [
+      {
+        "menuId": "nonUser_mypage",
+        "menuName": "기업회원 홈",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/User/MyPage",
+        "ga": {
+          "area": "lnb",
+          "label": "홈_PC",
+          "page": "기업_기업회원 홈"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "nonUser_regist",
+        "menuName": "공고등록",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/Corp/Recruit/Regist",
+        "ga": {
+          "area": "lnb",
+          "label": "홈_PC",
+          "page": "기업_공고등록"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "nonUser_management",
+        "menuName": "공고·지원자 관리",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/Corp/GiMng/List",
+        "ga": {
+          "area": "lnb",
+          "label": "홈_PC",
+          "page": "기업_공고지원자 관리"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "nonUser_person",
+        "menuName": "인재정보",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/corp/person/find",
+        "ga": {
+          "area": "lnb",
+          "label": "홈_PC",
+          "page": "기업_인재정보"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "nonUser_onepick",
+        "menuName": "원픽서비스 안내",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/OnePick/Intro",
+        "ga": {
+          "area": "lnb",
+          "label": "홈_PC",
+          "page": "기업_원픽서비스 안내"
+        },
+        "target": false,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "nonUser_ats",
+        "menuName": "채용 관리 솔루션(ATS) 안내",
+        "gridName": "",
+        "href": "https://www.ninehire.com/",
+        "ga": {
+          "area": "lnb",
+          "label": "홈_PC",
+          "page": "기업_채용 관리 솔루션(ATS) 안내"
+        },
+        "target": true,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "nonUser_corperateService",
+        "menuName": "기업회원 서비스 안내",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/Service/Company/Option",
+        "ga": {
+          "area": "lnb",
+          "label": "홈_PC",
+          "page": "기업_기업회원 서비스 안내"
+        },
+        "target": true,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      },
+      {
+        "menuId": "nonUser_corperateManagement",
+        "menuName": "기업정보관리",
+        "gridName": "",
+        "href": "https://www.jobkorea.co.kr/Corp/Info/Company",
+        "ga": {
+          "area": "lnb",
+          "label": "홈_PC",
+          "page": "기업_기업정보관리"
+        },
+        "target": true,
+        "iconName": "",
+        "iconPosition": "",
+        "direction": "",
+        "subMenu": []
+      }
+    ],
+    "grid": {
+      "x": 5,
+      "y": 2,
+      "w": 1,
+      "h": 10,
+      "i": "nonUser",
+      "resizeHandles": [
+        "s",
+        "w",
+        "e",
+        "n",
+        "sw",
+        "nw",
+        "se",
+        "ne"
+      ],
+      "cols": 6,
+      "gap": 0,
+      "gridWidth": "",
+      "gridHeight": "",
+      "gridBorderTop": "1px solid #000000",
+      "gridBorderRight": "1px solid #000000",
+      "gridBorderBottom": "1px solid #000000",
+      "gridBorderLeft": "1px solid #000000",
+      "tabOrder": 1
+    },
+    "style": {
+      "width": "",
+      "height": "",
+      "position": "",
+      "left": "",
+      "top": ""
+    }
+  }
+]
