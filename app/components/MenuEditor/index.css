@@ -1,0 +1,207 @@
+.editorContainer {
+  background: #fff;
+  padding: 20px;
+  margin: 10px 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  position: relative;
+  z-index: 1;
+}
+
+.editorGrid {
+  display: flex;
+  flex-direction: column;
+  /* grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); */
+  gap: 16px;
+  margin-top: 16px;
+  position: relative;
+  z-index: 2;
+}
+
+.editorGridInfo {
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: flex-end;
+  background: #f8f8f8;
+  border-radius: 4px;
+  border: 1px solid #eee;
+}
+
+.editorSubGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  gap: 16px;
+  margin-top: 16px;
+  position: relative;
+  z-index: 2;
+}
+
+.borderField {
+  display: flex;
+  width: calc(50% - 18px);
+  flex-direction: column;
+  gap: 8px;
+}
+
+.borderField label {
+  font-weight: 500;
+  color: #333;
+}
+
+.borderField input,
+.borderField select {
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.field label {
+  font-weight: 500;
+  color: #333;
+}
+
+.field input,
+.field select {
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.subMenuSection {
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid #eee;
+}
+
+.subMenuSection ul {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0;
+}
+
+.subMenuSection li {
+  padding: 4px 0;
+  color: #666;
+}
+
+.subMenuEditor {
+  margin-top: 16px;
+  padding: 16px;
+  background: #f8f8f8;
+  border-radius: 4px;
+  border: 1px solid #eee;
+}
+
+.subMenuEditor + .subMenuEditor {
+  margin-top: 8px;
+}
+
+.editorHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.saveButton {
+  padding: 8px 16px;
+  background-color: #1e88e5;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.saveButton:hover {
+  background-color: #1976d2;
+}
+
+.borderField {
+  margin-bottom: 1rem;
+}
+
+.borderControls {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.borderControls select {
+  min-width: 80px;
+}
+
+.borderControls input[type="color"] {
+  width: 50px;
+  padding: 0;
+  height: 30px;
+}
+
+.colorControl {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.colorControl input[type="text"] {
+  width: 80px;
+  font-family: monospace;
+}
+
+.colorControl input[type="color"] {
+  width: 40px;
+  padding: 0;
+  height: 30px;
+  cursor: pointer;
+}
+
+.headerButtons {
+  display: flex;
+  gap: 8px;
+}
+
+.addButton {
+  padding: 8px 16px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.deleteButton {
+  padding: 8px 16px;
+  background-color: #f44336;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.subMenuHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.empty-submenu {
+  padding: 20px;
+  text-align: center;
+  background: #f8f8f8;
+  border-radius: 4px;
+  margin-top: 10px;
+}
+
+.empty-submenu p {
+  color: #666;
+  margin: 0;
+} 

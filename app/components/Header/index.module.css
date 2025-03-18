@@ -1,0 +1,67 @@
+.gnbDetails{
+  border-left: 1px solid #e8e8e8;
+  border-right: 1px solid #e8e8e8;
+}
+
+
+.menuItemTitle{
+  color: #222;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 20px;
+  letter-spacing: 0;
+}
+
+.subMenuItem{
+  font-size: 14px;
+  color: #6a6a6a;
+  line-height: 22px;
+  letter-spacing: 0;
+  cursor: pointer;
+}
+
+.menuItem{
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  padding: 24px 21px;
+  border-right: 1px solid #e8e8e8;
+}
+
+.menuItem[data-direction="horizontal"] {
+  flex-direction: row;
+  gap: 20px
+}
+
+.menuItem[data-direction="horizontal"] ul {
+  flex-direction: row;
+  gap: 20px;
+  margin-top: 0;
+}
+
+.menuItem[data-menu-id="myPageProfile"] {
+  border-right: none;
+}
+
+.menuItem[data-menu-id="myPageHome"] {
+  border-right: none;
+}
+
+.menuItem[data-menu-id="recommendService"] {
+  border-top: 1px solid #e8e8e8;
+  align-items: center;
+}
+
+.menuItem a,
+.menuItem p {
+  display: flex;
+  align-items: center;
+  word-break: keep-all;
+}
+.menuItem ul{
+  margin-top: 10px;
+  display: flex;
+  flex-direction: inherit;
+  row-gap: 2px;
+  column-gap: 10px;
+}

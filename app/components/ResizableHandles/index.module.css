@@ -1,0 +1,33 @@
+.resizableContainer {
+  position: relative;
+  z-index: 1;
+}
+
+.menuEditors {
+  position: relative;
+  z-index: 2;
+  background: #fff;
+  padding: 20px;
+  margin: 10px 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.menuTabs {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.menuTab {
+  padding: 8px 16px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.menuTab.active {
+  background: #1e88e5;
+  color: white;
+  border-color: #1e88e5;
+} 

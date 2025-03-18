@@ -1,0 +1,10 @@
+.nav {
+  display: flex;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.nav ul {
+  display: flex;
+  gap: 50px;
+}
+
